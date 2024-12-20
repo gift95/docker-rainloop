@@ -1,5 +1,5 @@
 
-name: Build current version + push to DockerHub
+name: Build arm64 version + push to DockerHub
 
 on:
   release:
