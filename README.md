@@ -17,7 +17,7 @@ This project allows you to host your own instance of [rainloop ](https://github.
 To build this project from source make sure to clone the repository from github and change your working directroy into that newly created directory. Then simly issue the ```docker build``` like shown:
 
 ```
-docker build -t wernerfred/docker-rainloop .
+docker build -t wernerfred/docker-rainloop . 
 ```
 
 ### Pull from DockerHub
